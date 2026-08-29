@@ -1,0 +1,272 @@
+{
+  "tiles_per_side": 256,
+  "world_size_metres": 1024,
+  "layers": [
+    {
+      "index": 0,
+      "name": "polar_snow_glacial",
+      "mask_file": "mask_000_polar_snow_glacial.png",
+      "tile_count": 15246,
+      "coverage_pct": 23.26
+    },
+    {
+      "index": 1,
+      "name": "alpine_shore_rocks",
+      "mask_file": "mask_001_alpine_shore_rocks.png",
+      "tile_count": 7123,
+      "coverage_pct": 10.87
+    },
+    {
+      "index": 2,
+      "name": "alpine_grass_a",
+      "mask_file": "mask_002_alpine_grass_a.png",
+      "tile_count": 594,
+      "coverage_pct": 0.91
+    },
+    {
+      "index": 3,
+      "name": "alpine_snow_a",
+      "mask_file": "mask_003_alpine_snow_a.png",
+      "tile_count": 3282,
+      "coverage_pct": 5.01
+    },
+    {
+      "index": 4,
+      "name": "alpine_snow_b",
+      "mask_file": "mask_004_alpine_snow_b.png",
+      "tile_count": 360,
+      "coverage_pct": 0.55
+    },
+    {
+      "index": 5,
+      "name": "alpine_shore_rocks_icy",
+      "mask_file": "mask_005_alpine_shore_rocks_icy.png",
+      "tile_count": 1985,
+      "coverage_pct": 3.03
+    },
+    {
+      "index": 6,
+      "name": "alpine_dirt_snow",
+      "mask_file": "mask_006_alpine_dirt_snow.png",
+      "tile_count": 552,
+      "coverage_pct": 0.84
+    },
+    {
+      "index": 7,
+      "name": "alpine_cliff",
+      "mask_file": "mask_007_alpine_cliff.png",
+      "tile_count": 10327,
+      "coverage_pct": 15.76
+    },
+    {
+      "index": 8,
+      "name": "alpine_grass_b",
+      "mask_file": "mask_008_alpine_grass_b.png",
+      "tile_count": 166,
+      "coverage_pct": 0.25
+    },
+    {
+      "index": 9,
+      "name": "new_alpine_grass_a",
+      "mask_file": "mask_009_new_alpine_grass_a.png",
+      "tile_count": 8379,
+      "coverage_pct": 12.79
+    },
+    {
+      "index": 10,
+      "name": "new_alpine_grass_mossy",
+      "mask_file": "mask_010_new_alpine_grass_mossy.png",
+      "tile_count": 927,
+      "coverage_pct": 1.41
+    },
+    {
+      "index": 11,
+      "name": "alpine_forrestfloor",
+      "mask_file": "mask_011_alpine_forrestfloor.png",
+      "tile_count": 2026,
+      "coverage_pct": 3.09
+    },
+    {
+      "index": 12,
+      "name": "new_alpine_grass_b",
+      "mask_file": "mask_012_new_alpine_grass_b.png",
+      "tile_count": 1,
+      "coverage_pct": 0.0
+    },
+    {
+      "index": 13,
+      "name": "alpine_forrestfloor_snow",
+      "mask_file": "mask_013_alpine_forrestfloor_snow.png",
+      "tile_count": 2652,
+      "coverage_pct": 4.05
+    },
+    {
+      "index": 14,
+      "name": "alpine_grass_snow_50",
+      "mask_file": "mask_014_alpine_grass_snow_50.png",
+      "tile_count": 860,
+      "coverage_pct": 1.31
+    },
+    {
+      "index": 15,
+      "name": "new_alpine_grass_e",
+      "mask_file": "mask_015_new_alpine_grass_e.png",
+      "tile_count": 2,
+      "coverage_pct": 0.0
+    },
+    {
+      "index": 16,
+      "name": "grass1_spring",
+      "mask_file": "mask_016_grass1_spring.png",
+      "tile_count": 436,
+      "coverage_pct": 0.67
+    },
+    {
+      "index": 17,
+      "name": "alpine_dirt_grass_50",
+      "mask_file": "mask_017_alpine_dirt_grass_50.png",
+      "tile_count": 28,
+      "coverage_pct": 0.04
+    },
+    {
+      "index": 18,
+      "name": "new_alpine_grass_dirt_a",
+      "mask_file": "mask_018_new_alpine_grass_dirt_a.png",
+      "tile_count": 2,
+      "coverage_pct": 0.0
+    },
+    {
+      "index": 19,
+      "name": "alpine_snow_glacial",
+      "mask_file": "mask_019_alpine_snow_glacial.png",
+      "tile_count": 310,
+      "coverage_pct": 0.47
+    },
+    {
+      "index": 20,
+      "name": "alpine_cliff_snow",
+      "mask_file": "mask_020_alpine_cliff_snow.png",
+      "tile_count": 568,
+      "coverage_pct": 0.87
+    },
+    {
+      "index": 21,
+      "name": "road_muddy",
+      "mask_file": "mask_021_road_muddy.png",
+      "tile_count": 124,
+      "coverage_pct": 0.19
+    },
+    {
+      "index": 22,
+      "name": "alpine_cliff_a",
+      "mask_file": "mask_022_alpine_cliff_a.png",
+      "tile_count": 10,
+      "coverage_pct": 0.02
+    },
+    {
+      "index": 23,
+      "name": "steppe_river_rocks",
+      "mask_file": "mask_023_steppe_river_rocks.png",
+      "tile_count": 5208,
+      "coverage_pct": 7.95
+    },
+    {
+      "index": 24,
+      "name": "alpine_snow_rocky",
+      "mask_file": "mask_024_alpine_snow_rocky.png",
+      "tile_count": 119,
+      "coverage_pct": 0.18
+    },
+    {
+      "index": 25,
+      "name": "medit_road_broken",
+      "mask_file": "mask_025_medit_road_broken.png",
+      "tile_count": 753,
+      "coverage_pct": 1.15
+    },
+    {
+      "index": 26,
+      "name": "grass_moss",
+      "mask_file": "mask_026_grass_moss.png",
+      "tile_count": 61,
+      "coverage_pct": 0.09
+    },
+    {
+      "index": 27,
+      "name": "alpine_grass_d",
+      "mask_file": "mask_027_alpine_grass_d.png",
+      "tile_count": 1,
+      "coverage_pct": 0.0
+    },
+    {
+      "index": 28,
+      "name": "alpine_mountainside",
+      "mask_file": "mask_028_alpine_mountainside.png",
+      "tile_count": 104,
+      "coverage_pct": 0.16
+    },
+    {
+      "index": 29,
+      "name": "polar_snow_a",
+      "mask_file": "mask_029_polar_snow_a.png",
+      "tile_count": 2139,
+      "coverage_pct": 3.26
+    },
+    {
+      "index": 30,
+      "name": "temp_farmland",
+      "mask_file": "mask_030_temp_farmland.png",
+      "tile_count": 693,
+      "coverage_pct": 1.06
+    },
+    {
+      "index": 31,
+      "name": "steppe_grass_b",
+      "mask_file": "mask_031_steppe_grass_b.png",
+      "tile_count": 42,
+      "coverage_pct": 0.06
+    },
+    {
+      "index": 32,
+      "name": "shoreline_stoney_a",
+      "mask_file": "mask_032_shoreline_stoney_a.png",
+      "tile_count": 76,
+      "coverage_pct": 0.12
+    },
+    {
+      "index": 33,
+      "name": "snow grass 2",
+      "mask_file": "mask_033_snow_grass_2.png",
+      "tile_count": 202,
+      "coverage_pct": 0.31
+    },
+    {
+      "index": 34,
+      "name": "path a",
+      "mask_file": "mask_034_path_a.png",
+      "tile_count": 157,
+      "coverage_pct": 0.24
+    },
+    {
+      "index": 35,
+      "name": "polar_ice",
+      "mask_file": "mask_035_polar_ice.png",
+      "tile_count": 8,
+      "coverage_pct": 0.01
+    },
+    {
+      "index": 36,
+      "name": "polar_ice_snow",
+      "mask_file": "mask_036_polar_ice_snow.png",
+      "tile_count": 2,
+      "coverage_pct": 0.0
+    },
+    {
+      "index": 37,
+      "name": "polar_snow_b",
+      "mask_file": "mask_037_polar_snow_b.png",
+      "tile_count": 11,
+      "coverage_pct": 0.02
+    }
+  ]
+}
